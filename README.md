@@ -11,7 +11,6 @@ The psd files are twice the size of what should be put in the axure file (axure 
   - Cruise Package Management Screen
   - Cruise Group Management Screen
   - Home Screen, Fly Out: Profile Switching
-  - Other Cruisers At Event List
   - Possibly More Screens To Come
 
 After Screens: Move It All Into Axure File
